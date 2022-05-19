@@ -1,4 +1,3 @@
-"use strict";
 console.log("This program gives the Factorial of given number..")
 const prompt = require('prompt-sync')();
 const number = parseInt(prompt('Enter any number: '));
